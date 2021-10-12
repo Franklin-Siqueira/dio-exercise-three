@@ -40,4 +40,9 @@ IntelliJ-Idea-CE Community-Edition Introduction Java Git GitHub DIO Capgemini Fu
 - IntelliJ Idea 2021.2.2 (Community Edition);
 
 ---
+**License**
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Franklin-Siqueira/dio-exercise-three/blob/main/LICENSE.md)
+
+
+This sample code is released using the MIT license. For more information see the [LICENSE](https://github.com/Franklin-Siqueira/dio-exercise-three/blob/main/LICENSE.md) file.
