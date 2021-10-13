@@ -37,7 +37,7 @@
 
 *_Resumo:_*
 
-Este repositório contém os arquivos criados durante o curso de Desenvolvimento Básico em Java. O curso foi ministrado por [André Gomes](https://github.com/andrelugomes/digital-innovation-one) e oferecido pela [Digital Innovation One](https://digitalinnovation.one/sign-in), como parte do bootcamp *_Capgemini Fullstack Java and Angular_*.
+Este repositório contém os arquivos criados durante o curso de Desenvolvimento Básico em Java. O curso foi ministrado por [André Gomes](https://github.com/andrelugomes/digital-innovation-one), [Marco Paulo Ollivier](https://github.com/marcopollivier/class-java-basico/) e Alex Duarte; e oferecido pela [Digital Innovation One](https://digitalinnovation.one/sign-in), como parte do bootcamp *_Capgemini Fullstack Java and Angular_*.
 
 *_Abstract:_*
 

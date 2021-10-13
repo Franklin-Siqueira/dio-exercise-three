@@ -38,8 +38,8 @@ public class DateLocal {
         LocalDateTime todayLocalDetails = LocalDateTime.now();
         System.out.println(todayLocalDetails);
         // Ex. 2019-07-15T00:02:16.076
-        LocalDateTime futuro = todayLocalDetails.plusHours(1).plusDays(2).plusSeconds(12);
-        System.out.println(futuro);
+        LocalDateTime future = todayLocalDetails.plusHours(1).plusDays(2).plusSeconds(12);
+        System.out.println(future);
         // Ex. 2019-07-17T01:02:28.076
     }
 }
