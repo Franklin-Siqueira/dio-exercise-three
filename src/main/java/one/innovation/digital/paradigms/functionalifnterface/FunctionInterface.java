@@ -1,5 +1,9 @@
 package one.innovation.digital.paradigms.functionalifnterface;
 
+import one.innovation.digital.paradigms.functionalifnterface.classes.Person;
+import one.innovation.digital.paradigms.functionalifnterface.interfaces.FunctionOne;
+import one.innovation.digital.paradigms.functionalifnterface.interfaces.FunctionTwo;
+
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -84,35 +88,41 @@ public class FunctionInterface {
         Supplier<Person> supplierTestTwo = Person::new;
         System.out.println(supplierTestTwo.get());
     }
-    // High Order Function
+    /**
+     * High Order Function
+     * @param calculate
+     * @param a
+     * @param b
+     * @return a lambda function from FunctionCalculate FunctionalInterface
+     */
     public static float runCalculation(FunctionCalculate calculate, float a, float b){
         return calculate.calculateValue(a,b);
     }
 }
 @FunctionalInterface
-interface FunctionOne {
-    String createStringValue(String value);
-}
-@FunctionalInterface
-interface FunctionTwo {
-    void createStringValue(String value);
-}
-@FunctionalInterface
 interface FunctionCalculate {
     public float calculateValue(float valueA, float valueB);
 }
+// MOVED FOR RESPECTIVE FILES
+//@FunctionalInterface
+//interface FunctionOne {
+//    String createStringValue(String value);
+//}
+//@FunctionalInterface
+//interface FunctionTwo {
+//    void createStringValue(String value);
+//}
+//class Person {
+//    private String name;
+//    private Integer age;
 //
-class Person {
-    private String name;
-    private Integer age;
-
-    public Person(){
-        name = "Franklin";
-        age = 55;
-    }
-
-    @Override
-    public String toString(){
-        return String.format("Name: %s and Age: %s", name, age);
-    }
-}
+//    public Person(){
+//        name = "Franklin";
+//        age = 55;
+//    }
+//
+//    @Override
+//    public String toString(){
+//        return String.format("Name: %s and Age: %s", name, age);
+//    }
+//}
