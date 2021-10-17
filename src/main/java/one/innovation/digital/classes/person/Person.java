@@ -1,14 +1,14 @@
-package one.innovation.digital.classes.pessoa;
+package one.innovation.digital.classes.person;
 
-public class Pessoa {
+public class Person {
     private Integer age;
     private Float weight;
-    public Pessoa() {
+    public Person() {
     }
-    public Pessoa(final Integer age){
+    public Person(final Integer age){
         this.age = age;
     }
-    public Pessoa(final Integer age, final Float weight){
+    public Person(final Integer age, final Float weight){
         this.age = age;
         this.weight = weight;
     }

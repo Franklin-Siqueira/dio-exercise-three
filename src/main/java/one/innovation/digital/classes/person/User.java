@@ -1,4 +1,4 @@
-package one.innovation.digital.classes.pessoa;
+package one.innovation.digital.classes.person;
 
 public class User {
     public static void main(String[] args) {

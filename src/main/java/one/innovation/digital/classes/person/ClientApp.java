@@ -1,10 +1,10 @@
-package one.innovation.digital.classes.pessoa;
+package one.innovation.digital.classes.person;
 
-import one.innovation.digital.classes.cliente.Cliente;
+import one.innovation.digital.classes.client.ClientClass;
 
-public class ClienteProgram {
+public class ClientApp {
     public static void main(String[] args) {
-        final var cliente = new Cliente(22);
+        final var cliente = new ClientClass(22);
         // OK! These methods are accessible outside pessoa's package
         cliente.getAge();
         cliente.getWeight();

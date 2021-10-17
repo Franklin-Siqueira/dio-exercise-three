@@ -1,11 +1,11 @@
-package one.innovation.digital.classes.usuario;
+package one.innovation.digital.classes.user;
 
-public class SuperUsuario {
+public class SuperUser {
     private String login;
     private String password;
     String name;
 
-    public SuperUsuario(final String login, final String password){
+    public SuperUser(final String login, final String password){
         this.login = login;
         this.password = password;
     }
