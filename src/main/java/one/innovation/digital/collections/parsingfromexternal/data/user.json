@@ -1,0 +1,42 @@
+[
+  {
+    "name": {
+      "firstName": "Joe",
+      "lastName": "Sixpack"
+    },
+    "gender": "MALE",
+    "verified": false,
+    "userImage": "Rm9vYmFyIQ==",
+    "email": "John555555@gmail.com"
+  },
+  {
+    "name": {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    "gender": "MALE",
+    "verified": true,
+    "userImage": "Rm9vYmFyIQ==",
+    "email": "John4444@gmail.com"
+  },
+  {
+    "name": {
+      "firstName": "John",
+      "lastName": "Doing"
+    },
+    "gender": "MALE",
+    "verified": true,
+    "userImage": "Rm9vYmFyIQ==",
+    "email": "John3@gmail.com"
+  },
+  {
+    "name": {
+      "firstName": "John",
+      "lastName": "Doer"
+    },
+    "gender": "MALE",
+    "verified": false,
+    "userImage": "Rm9vYmFyIQ==",
+    "email": "John@gmail.com"
+  }
+]

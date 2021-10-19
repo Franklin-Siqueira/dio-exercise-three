@@ -1,5 +1,8 @@
 package one.innovation.digital.abstracts;
 
+/**
+ * GeometricFigure abstract class
+ */
 public abstract class GeometricFigure {
     public abstract String gfName();
     public abstract Double gfArea();

@@ -1,4 +1,4 @@
-## Java 11 - Abstract Classes: GeometricFigure Abstract Class
+## Java 11 - Stream Interfaces 
 
 ---
 
@@ -37,11 +37,11 @@
 
 *_Resumo:_*
 
-Este repositório contém os arquivos criados durante os cursos de Desenvolvimento Básico e de Desenvolvimento Avançado em Java. O curso foi ministrado por [André Gomes](https://github.com/andrelugomes/digital-innovation-one), [Marco Paulo Ollivier](https://github.com/marcopollivier/class-java-basico/), [João Paulo Santos](https://github.com/jpbaterabsb/java-avancado) e Alex Duarte; e oferecidos pela [Digital Innovation One](https://digitalinnovation.one/sign-in) e pela [Capgemini](https://www.capgemini.com/), como parte do bootcamp **Capgemini Fullstack Java and Angular**.
+Este repositório contém os arquivos criados durante o curso de Trabalhando Collection em Java. O curso foi ministrado por  [Camila Cavalcante](https://github.com/cami-la/curso-dio-intro-collections); e oferecido pela [Digital Innovation One](https://digitalinnovation.one/sign-in) e pela [Capgemini](https://www.capgemini.com/), como parte do bootcamp **Capgemini Fullstack Java and Angular**.
 
 *_Abstract:_*
 
-This repository contains the files created in the Desenvolvimento Básico and Desenvolvimento Avançado em Java courses. These courses are instructed by [André Gomes](https://github.com/andrelugomes/digital-innovation-one) and is part of the *_Capgemini Fullstack Java and Angular_* bootcamp, sponsored by [Digital Innovation One](https://digitalinnovation.one/sign-in) and [Capgemini](https://www.capgemini.com/).
+This repository contains the files created in the Trabalhando Collection em Java course. This course is instructed by [Camila Cavalcante](https://github.com/cami-la/curso-dio-intro-collections) and is part of the *_Capgemini Fullstack Java and Angular_* bootcamp, sponsored by [Digital Innovation One](https://digitalinnovation.one/sign-in) and [Capgemini](https://www.capgemini.com/).
 
 *_Keywords:_*
 

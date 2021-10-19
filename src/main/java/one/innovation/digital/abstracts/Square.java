@@ -1,5 +1,8 @@
 package one.innovation.digital.abstracts;
 
+/**
+ * Square class | extended from GeometricFigure abstract class
+ */
 public class Square extends GeometricFigure {
     private String gfName;
     private Double gfArea;
@@ -7,9 +10,9 @@ public class Square extends GeometricFigure {
     private Double gfY;
     public Square(final String gfName, final Double gfX, final Double gfY, final Double gfArea){
         this.gfName = gfName;
-        this.gfArea= gfArea;
-        this.gfX= gfX;
-        this.gfY= gfY;
+        this.gfArea = gfArea;
+        this.gfX = gfX;
+        this.gfY = gfY;
     }
     @Override
     public String gfName(){
